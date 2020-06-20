@@ -1,0 +1,6 @@
+c:\users\вадим\documents\visual studio 2013\Projects\rsa_new\rsa_new\bin\Debug\rsa_new.exe.config
+c:\users\вадим\documents\visual studio 2013\Projects\rsa_new\rsa_new\bin\Debug\rsa_new.exe
+c:\users\вадим\documents\visual studio 2013\Projects\rsa_new\rsa_new\bin\Debug\rsa_new.pdb
+c:\users\вадим\documents\visual studio 2013\Projects\rsa_new\rsa_new\obj\Debug\rsa_new.csprojResolveAssemblyReference.cache
+c:\users\вадим\documents\visual studio 2013\Projects\rsa_new\rsa_new\obj\Debug\rsa_new.exe
+c:\users\вадим\documents\visual studio 2013\Projects\rsa_new\rsa_new\obj\Debug\rsa_new.pdb
